@@ -1,3 +1,5 @@
+import numpy as np
+
 class SurfaceAdjacency(object):
     """
     Class to generate an adjancey list  of a surface mesh representation
